@@ -1,4 +1,5 @@
 #!/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/pi/mbusToIoBroker
 #
 # Simple script to read M-Bus meter values from a connected
 # smart meter and send the value to an MQTT broker
